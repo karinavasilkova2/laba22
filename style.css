@@ -1,0 +1,29 @@
+body{
+    background: grey;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.first{
+    font-size: 70px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.second{
+    font-size: 40px;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.fourth{
+    font-size: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.third{
+    font-size: 60px;
+    color: blue;
+    font-family: fantasy;
+}
